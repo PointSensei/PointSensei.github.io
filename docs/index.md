@@ -3,22 +3,22 @@ home: true
 # heroImage: /img/web.png
 heroText: PointSense 积分先生
 tagline: 梦想靠着积分和里程FIRE环游世界
-# actionText: 立刻进入 →
-# actionLink: /web/
+actionText: 最新羊毛🦙 →
+actionLink: /amex/
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: 前端
-    details: JavaScript、ES6、Vue框架等前端技术
-    link: /web/ # 可选
-    imgUrl: /img/web.png # 可选
-  - title: 页面
-    details: html(5)/css(3)，前端页面相关技术
-    link: /ui/
-    imgUrl: /img/ui.png
-  - title: 技术
-    details: 技术文档、教程、技巧、总结等文章
-    link: /technology/
+  - title: AMEX
+    details: AMEX 最新活动 
+    link: /amex/ # 可选
+    imgUrl: /img/amex_logo.png # 可选
+  - title: Moppy モッピー
+    details: 日本最多人用的最强积分网站
+    link: /moppy/
+    imgUrl: /img/moppy_logo.jpg
+  - title: 体验
+    details: 里程票/酒店
+    link: /experience/
     imgUrl: /img/other.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
